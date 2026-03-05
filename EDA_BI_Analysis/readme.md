@@ -7,7 +7,7 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) on t
 In this stage, the dataset was explored to understand its structure and statistical characteristics. Summary statistics such as mean, minimum, maximum, and distribution of values were analyzed to gain a basic understanding of the data.
 
 Univariate analysis was performed to study individual variables and their distributions using visualizations such as bar charts and histograms. This helped identify patterns in sales, profit, and product categories.
-![image]()
+![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/08badcfd98ba35d809ed461086ea7883ebc5053f/data/Descriptiv_stat.png)
 
 ## 2. SQL for Business Questions
 SQL queries were used to answer important business questions derived from the dataset. Aggregation, filtering, and grouping techniques were applied to extract meaningful insights from the data.
