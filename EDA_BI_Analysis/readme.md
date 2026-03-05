@@ -53,7 +53,7 @@ The dashboard includes the following visualizations:
 - Year-wise Sales Trend
 - Category-wise Sales Distribution
 
-(ADD DASHBOARD SCREENSHOT HERE)
+![image alt]()
 
 ## Key Insights
 
