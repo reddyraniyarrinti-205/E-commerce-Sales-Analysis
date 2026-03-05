@@ -53,7 +53,7 @@ The dashboard includes the following visualizations:
 - Year-wise Sales Trend
 - Category-wise Sales Distribution
 
-![image alt]()
+![image alt](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/25f3a41009913a7dad6a7b82f4bb7d8516d2f858/Static_Dashboard.png)
 
 ## Key Insights
 
