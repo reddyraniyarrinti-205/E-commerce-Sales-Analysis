@@ -15,7 +15,7 @@ SQL queries were used to answer important business questions derived from the da
 Some of the business questions addressed include:
 
 - Which region generates the highest profit?
-  ![image]()
+  ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/012f62b4d4ec562607723b5088cc0c22d79df978/Result_pics/Sales%20by%20Region.png)
 - Which product category contributes the most sales?
    ![image]()
 - What is the total number of orders?
