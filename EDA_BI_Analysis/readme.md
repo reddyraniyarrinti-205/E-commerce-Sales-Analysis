@@ -29,7 +29,7 @@ Some of the business questions addressed include:
   
 - What is the total sales and profit generated?
 - 
-  ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/4568585d2ee99856c1f3c2409f9c5d0843364142/Result_pics/Descriptiv_stat.png)
+  ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/fa4cc8710eb726f91c72c33e7a5aa80ed35ab8e6/Result_pics/Descriptiv_stat.png)
 
 
 The SQL analysis helps transform raw data into meaningful business insights.
