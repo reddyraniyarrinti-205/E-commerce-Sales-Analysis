@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) & Business Intelligence Analysis
+# Task-2 :Exploratory Data Analysis (EDA) & Business Intelligence Analysis
 
 ## Objective
 The objective of this project is to perform Exploratory Data Analysis (EDA) on the dataset to identify patterns, trends, and relationships within the data. The analysis helps in understanding business performance and generating insights that support data-driven decision making. SQL queries are also used to answer key business questions, and a static dashboard is created to summarize important business metrics.
@@ -15,9 +15,13 @@ SQL queries were used to answer important business questions derived from the da
 Some of the business questions addressed include:
 
 - Which region generates the highest profit?
+  ![image]()
 - Which product category contributes the most sales?
+   ![image]()
 - What is the total number of orders?
+  ![image]()
 - What is the total sales and profit generated?
+  ![image]()
 
 
 The SQL analysis helps transform raw data into meaningful business insights.
