@@ -20,7 +20,7 @@ Some of the business questions addressed include:
   ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/f0b5346498286af76455d3625154ad88badb17af/Result_pics/Sales%20by%20Region.png)
   
 - Which product category contributes the most sales?
-- 
+
    ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/68a6deadb8bafaed42eb773f023239624586afd7/Result_pics/Top%205%20Products%20by%20Sales.png)
   
 - What is the total number of orders?
@@ -28,22 +28,19 @@ Some of the business questions addressed include:
   ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/de163ca024333d2567d7241d4686e585e9d1f0df/Result_pics/total_orders.png)
   
 - What is the total sales and profit generated?
-- 
+  
   ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/fa4cc8710eb726f91c72c33e7a5aa80ed35ab8e6/Result_pics/Descriptiv_stat.png)
 
 
 The SQL analysis helps transform raw data into meaningful business insights.
 
-(ADD SQL QUERY RESULT SCREENSHOT HERE)
-
-(ADD ANOTHER SQL RESULT SCREENSHOT HERE)
 
 ## 3. Multivariate Analysis & Correlation
 Multivariate analysis was conducted to understand the relationship between multiple variables such as sales, profit, and product categories. Scatter plots and correlation techniques were used to explore how different factors influence business performance.
 
 This analysis helps in identifying relationships between variables and understanding how different business metrics interact with each other.
 
-(ADD MULTIVARIATE CHART SCREENSHOT HERE)
+ ![image]()
 
 ## 4. Static Dashboard Mock-up
 Based on the insights obtained from the EDA process, a static dashboard was created to visualize key business performance indicators.
