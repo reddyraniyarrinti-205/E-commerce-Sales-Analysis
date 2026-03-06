@@ -7,6 +7,7 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) on t
 In this stage, the dataset was explored to understand its structure and statistical characteristics. Summary statistics such as mean, minimum, maximum, and distribution of values were analyzed to gain a basic understanding of the data.
 
 Univariate analysis was performed to study individual variables and their distributions using visualizations such as bar charts and histograms. This helped identify patterns in sales, profit, and product categories.
+
 ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/08badcfd98ba35d809ed461086ea7883ebc5053f/data/Descriptiv_stat.png)
 
 ## 2. SQL for Business Questions
@@ -15,13 +16,17 @@ SQL queries were used to answer important business questions derived from the da
 Some of the business questions addressed include:
 
 - Which region generates the highest profit?
+  
   ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/012f62b4d4ec562607723b5088cc0c22d79df978/Result_pics/Sales%20by%20Region.png)
+  
 - Which product category contributes the most sales?
+- 
    ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/a777aa2ad832b143147c77b482e6dd8d83b77666/Result_pics/Top%205%20Products%20by%20Sales.png)
 - What is the total number of orders?
   ![image]()
 - What is the total sales and profit generated?
-  ![image]()
+- 
+  ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/4568585d2ee99856c1f3c2409f9c5d0843364142/Result_pics/Descriptiv_stat.png)
 
 
 The SQL analysis helps transform raw data into meaningful business insights.
