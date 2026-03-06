@@ -17,7 +17,7 @@ Some of the business questions addressed include:
 - Which region generates the highest profit?
   ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/012f62b4d4ec562607723b5088cc0c22d79df978/Result_pics/Sales%20by%20Region.png)
 - Which product category contributes the most sales?
-   ![image]()
+   ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/a777aa2ad832b143147c77b482e6dd8d83b77666/Result_pics/Top%205%20Products%20by%20Sales.png)
 - What is the total number of orders?
   ![image]()
 - What is the total sales and profit generated?
