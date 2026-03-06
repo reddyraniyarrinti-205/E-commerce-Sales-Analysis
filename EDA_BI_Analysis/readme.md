@@ -40,7 +40,7 @@ Multivariate analysis was conducted to understand the relationship between multi
 
 This analysis helps in identifying relationships between variables and understanding how different business metrics interact with each other.
 
- ![image]()
+ ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/1fe1bbf2a45bb1e92eb5f4c0d2a93237b0f0608b/Result_pics/Multivariate_Analysis.png)
 
 ## 4. Static Dashboard Mock-up
 Based on the insights obtained from the EDA process, a static dashboard was created to visualize key business performance indicators.
