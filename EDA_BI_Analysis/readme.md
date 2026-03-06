@@ -21,7 +21,7 @@ Some of the business questions addressed include:
   
 - Which product category contributes the most sales?
 - 
-   ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/a777aa2ad832b143147c77b482e6dd8d83b77666/Result_pics/Top%205%20Products%20by%20Sales.png)
+   ![image](https://github.com/reddyraniyarrinti-205/E-commerce-Sales-Analysis/blob/68a6deadb8bafaed42eb773f023239624586afd7/Result_pics/Top%205%20Products%20by%20Sales.png)
   
 - What is the total number of orders?
   
