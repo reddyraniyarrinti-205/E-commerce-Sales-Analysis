@@ -75,10 +75,12 @@ The dashboard allows users to explore the data dynamically and gain meaningful i
 
 ## Insights
 
-1. West region has the highest sales.
-2. Technology category generates the highest profit.
-3. Some products generate high sales but low profit.
-4. Monthly sales trend shows seasonal variation.
+1. The total sales are 11M and the total profit is 1.84M, which shows the business is generating good revenue.
+2. The West region has the highest sales, while the North region has the lowest sales.
+3. Electronics category generates the highest profit compared to Accessories and Office.
+4. Among products, Camera has the highest sales, followed by Monitor and Printer.
+5. The monthly sales trend shows the highest sales in May and the lowest in February.
+6. Overall, the Electronics category performs best in both sales and profit.
 
 ## Conclusion
 
